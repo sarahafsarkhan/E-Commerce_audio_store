@@ -41,6 +41,12 @@ Audiophile is a premium audio equipment e-commerce platform that brings you the 
 - Node.js (v14 or higher)
 - npm or yarn package manager
 
+#Screenshot
+
+<img width="800" height="700" alt="audiophile1" src="https://github.com/user-attachments/assets/b3a86b75-9d38-47ae-83bb-a6db2758a580" />
+<img width="800" height="700" alt="audiophile2" src="https://github.com/user-attachments/assets/a2864c3e-ffbb-4065-b48d-a6093db5ffcd" />
+<img width="800" height="700" alt="audiophile3" src="https://github.com/user-attachments/assets/31f6dfcb-b338-4fe8-8a57-c820e9eb6562" />
+
 ## Quick Start
 ```bash
 # 1. Clone the repository
@@ -54,3 +60,6 @@ npm install
 
 # 4. Start development server
 npm start
+
+
+
